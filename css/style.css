@@ -28,7 +28,7 @@ img{
     border: 10px dashed #ffffff;
 }
 div{
-    height: auto 125px;
+    min-height: 125px;
     padding: 20px;
     border: 3px solid #ffffff;
 }
@@ -70,5 +70,6 @@ footer{
     text-align: right;
     p{
         font-size: 20px;
+        padding: 15px 15px 15px 0px;
     }
 }
